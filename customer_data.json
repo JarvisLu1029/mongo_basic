@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "Customer ID": "3ae067bf-1c7d-4f1e-ba02-270689a79876",
+            "character": "多佛朗明哥",
+            "team": "七武海"
+        },
+        {
+            "Customer ID": "b1397855-2e83-40c7-a859-1c0a460845ad",
+            "character": "克羅克達爾",
+            "team": "七武海"
+        },
+        {
+            "Customer ID": "4ababcb0-1fa7-4bdc-9381-88ef0c4e53b9",
+            "character": "鷹眼·米霍克",
+            "team": "七武海"
+        },
+        {
+            "Customer ID": "662ee3a3-220a-4442-9ffd-0fc44ce59372",
+            "character": "艾斯",
+            "team": "白鬍子海賊團"
+        },
+        {
+            "Customer ID": "8f082424-3726-4e7f-bf4c-224ff5bbc228",
+            "character": "魯夫",
+            "team": "草帽海賊團"
+        },
+        {
+            "Customer ID": "c43948c4-8fab-481d-9e63-3479c0c1ec11",
+            "character": "索隆",
+            "team": "草帽海賊團"
+        },
+        {
+            "Customer ID": "31f5377c-5ca9-4fa4-859d-600fb1fc9806",
+            "character": "香吉士",
+            "team": "草帽海賊團"
+        },
+        {
+            "Customer ID": "56d050a9-1eeb-4e20-9c25-43a1d4f7491e",
+            "character": "娜美",
+            "team": "草帽海賊團"
+        },
+        {
+            "Customer ID": "e07e0b1b-7e5c-4f95-830c-9cb4aadd5bac",
+            "character": "雷利",
+            "team": "羅傑海賊團"
+        },
+        {
+            "Customer ID": "236c1726-f428-4cad-b08e-5692ddf72fca",
+            "character": "羅",
+            "team": "七武海"
+        }
+    ]
+}
